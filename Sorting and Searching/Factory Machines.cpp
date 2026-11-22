@@ -21,7 +21,7 @@ bool possible(long long int x) {
       return 1;
   }
 
-  return 0;
+  return 0; // products<t
 }
 
 int main() {
@@ -30,8 +30,6 @@ int main() {
   k = vector<int>(n);
   for(int i=0; i<n; i++)
     cin>>k[i];
-
-  sort(k.begin(), k.end());
 
   // Approach: Binary search
 
