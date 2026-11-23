@@ -63,18 +63,21 @@ CSES Profile: [mechobiral](https://cses.fi/user/523630)
 
 </details>
 
-### Dynamic Programming (`5`)
+### Dynamic Programming (`8`)
 
 <details open>
-<summary><b>Click to expand / collapse (5 problems)</b></summary>
+<summary><b>Click to expand / collapse (8 problems)</b></summary>
 
 | # | Problem | Solution | Task |
 | :-: | :-- | :-- | :-: |
-| 01 | [Coin Combinations I](https://cses.fi/problemset/task/1635) | [`Coin Combinations I.cpp`](./Dynamic%20Programming/Coin%20Combinations%20I.cpp) | [`1635`](https://cses.fi/problemset/task/1635) |
-| 02 | [Coin Combinations II](https://cses.fi/problemset/task/1636) | [`Coin Combinations II.cpp`](./Dynamic%20Programming/Coin%20Combinations%20II.cpp) | [`1636`](https://cses.fi/problemset/task/1636) |
-| 03 | [Dice Combinations](https://cses.fi/problemset/task/1633) | [`Dice Combinations.cpp`](./Dynamic%20Programming/Dice%20Combinations.cpp) | [`1633`](https://cses.fi/problemset/task/1633) |
-| 04 | [Grid Paths I](https://cses.fi/problemset/task/1638) | [`Grid Paths I.cpp`](./Dynamic%20Programming/Grid%20Paths%20I.cpp) | [`1638`](https://cses.fi/problemset/task/1638) |
-| 05 | [Minimizing Coins](https://cses.fi/problemset/task/1634) | [`Minimizing Coins.cpp`](./Dynamic%20Programming/Minimizing%20Coins.cpp) | [`1634`](https://cses.fi/problemset/task/1634) |
+| 01 | [Book Shop](https://cses.fi/problemset/task/1158) | [`Book Shop.cpp`](./Dynamic%20Programming/Book%20Shop.cpp) | [`1158`](https://cses.fi/problemset/task/1158) |
+| 02 | [Coin Combinations I](https://cses.fi/problemset/task/1635) | [`Coin Combinations I.cpp`](./Dynamic%20Programming/Coin%20Combinations%20I.cpp) | [`1635`](https://cses.fi/problemset/task/1635) |
+| 03 | [Coin Combinations II](https://cses.fi/problemset/task/1636) | [`Coin Combinations II.cpp`](./Dynamic%20Programming/Coin%20Combinations%20II.cpp) | [`1636`](https://cses.fi/problemset/task/1636) |
+| 04 | [Dice Combinations](https://cses.fi/problemset/task/1633) | [`Dice Combinations.cpp`](./Dynamic%20Programming/Dice%20Combinations.cpp) | [`1633`](https://cses.fi/problemset/task/1633) |
+| 05 | [Grid Paths I](https://cses.fi/problemset/task/1638) | [`Grid Paths I.cpp`](./Dynamic%20Programming/Grid%20Paths%20I.cpp) | [`1638`](https://cses.fi/problemset/task/1638) |
+| 06 | [Minimizing Coins](https://cses.fi/problemset/task/1634) | [`Minimizing Coins.cpp`](./Dynamic%20Programming/Minimizing%20Coins.cpp) | [`1634`](https://cses.fi/problemset/task/1634) |
+| 07 | [Money Sums](https://cses.fi/problemset/task/1745) | [`Money Sums.cpp`](./Dynamic%20Programming/Money%20Sums.cpp) | [`1745`](https://cses.fi/problemset/task/1745) |
+| 08 | [Removing Digits](https://cses.fi/problemset/task/1637) | [`Removing Digits.cpp`](./Dynamic%20Programming/Removing%20Digits.cpp) | [`1637`](https://cses.fi/problemset/task/1637) |
 
 </details>
 
